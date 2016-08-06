@@ -1,0 +1,33 @@
+body {
+	font-size: 9pt;
+	background: #fffafa;
+}
+
+th, td {
+	font-size: 9pt;
+}
+
+th {
+	background: #dddddd;
+}
+
+td.title {
+	background-color: orange;
+}
+
+
+a {
+	font-size: 10pt;
+	color: #0000ff;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: orange;
+	background-color: #ffffff;
+	text-decoration: underline;
+}
+
+hr {
+	color: orange;
+}
